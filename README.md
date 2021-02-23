@@ -4,5 +4,6 @@ this isn't finished yet, check back later
 ## commands (CLI)
 `node index.js start` - Start ecobot\
 `node index.js clear` - Clear all economy data\
-`node index.js modify [USER ID] [AMOUNT]` - Modify a user's balance
 ## commands (DISCORD)
+`e!bal e!balance` - View your balance\
+`e!set [ID] [AMOUNT]` - Set someone's balance (can only be used by ID set in variables.json
