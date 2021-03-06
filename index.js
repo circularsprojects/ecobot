@@ -25,7 +25,7 @@ switch (args[0]) {
     console.log("--------------------");
     console.log("Ecobot, made by Circular");
     console.log("https://circularsprojects.com");
-    console.log("Current version: v1.0");
+    console.log("Current version: PRERELEASE v1.0");
     console.log("--------------------");
     break;
     case 'clear':
