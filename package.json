@@ -1,0 +1,12 @@
+{
+  "name": "ecobot",
+  "version": "1.0",
+  "description": "economy bot made for circle guy's server",
+  "main": "index.js",
+  "author": "circle guy#6279",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "sqlite3": "^5.0.2"
+  }
+}
