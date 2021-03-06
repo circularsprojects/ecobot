@@ -3,7 +3,7 @@ const variables = require('./variables.json');
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require('fs');
-const owner = "305243321784336384" // your id goes here
+const owner = variables.ownerID // your id goes here
 
 function setValue(id, amount) {
   fs.readFile('./eco.json', 'utf8', function(err, data) {
