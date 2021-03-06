@@ -1,6 +1,7 @@
 # ecobot
 simple economy bot for discord\
-this isn't finished yet, check back later
+this isn't finished yet, check back later\
+CURRENT VERSION: PRERELEASE v1.0
 ## setup
 1. run `npm install` in the working directory\
 2. change botToken in variables.json to your token
