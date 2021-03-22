@@ -3,6 +3,9 @@ https://circularsprojects.com \
 simple economy bot for discord\
 this isn't finished yet, check back later\
 CURRENT VERSION: PRERELEASE v1.0
+## features
+JSON database-based economy
+easy to understand code
 ## how it works
 the bot works with a local .JSON to store user data so it's basically like having a bunch of variables
 ## setup
