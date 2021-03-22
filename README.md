@@ -11,7 +11,7 @@ the bot works with a local .JSON to store user data so it's basically like havin
 3. change ownerID in variables.json to your id (not the bot id)
 ## commands (CLI)
 `node index.js start` - Start ecobot\
-`node index.js clear` - Clear all economy data\
+`node index.js clear` - Clear all economy data
 ## commands (DISCORD)
 `e!balance` - View your balance\
 `e!set [ID] [AMOUNT]` - Set someone's balance (can only be used by ID set in variables.json\
