@@ -1,4 +1,5 @@
-# ecobot ![Build status badge](https://circularsprojects.com)
+# ecobot
+https://circularsprojects.com
 simple economy bot for discord\
 this isn't finished yet, check back later\
 CURRENT VERSION: PRERELEASE v1.0
@@ -16,4 +17,7 @@ the bot works with a local .JSON to store user data so it's basically like havin
 `e!set [ID] [AMOUNT]` - Set someone's balance (can only be used by ID set in variables.json\
 `e!work` - get money (work in progress)
 ## to-do
-
+- finish all commands
+- make file writing more efficient
+  - save to file every minute or so
+  - save in memory first
