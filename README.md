@@ -1,5 +1,5 @@
 # ecobot
-https://circularsprojects.com\
+https://circularsprojects.com \
 simple economy bot for discord\
 this isn't finished yet, check back later\
 CURRENT VERSION: PRERELEASE v1.0
