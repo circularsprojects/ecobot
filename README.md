@@ -7,7 +7,7 @@ CURRENT VERSION: PRERELEASE v1.0
 the bot works with a local .JSON to store user data so it's basically like having a bunch of variables
 ## setup
 1. run `npm install` in the working directory\
-2. change botToken in variables.json to your token
+2. change botToken in variables.json to your token\
 3. change ownerID in variables.json to your id (not the bot id)
 ## commands (CLI)
 `node index.js start` - Start ecobot\
