@@ -21,3 +21,6 @@ the bot works with a local .JSON to store user data so it's basically like havin
 - make file writing more efficient
   - save to file every minute or so
   - save in memory first
+- add admins
+- web interface
+  - leaderboards??
