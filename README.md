@@ -1,8 +1,6 @@
 # ecobot
-https://circularsprojects.com \
-simple economy bot for discord\
-this isn't finished yet, check back later\
-CURRENT VERSION: PRERELEASE v1.0
+economy bot for discord\
+this isn't finished yet, and probably never will be.
 ## features
 - JSON database-based economy
 - easy to understand code
@@ -24,6 +22,7 @@ the bot works with a local .JSON to store user data so it's basically like havin
 - make file writing more efficient
   - save to file every minute or so
   - save in memory first
+  - so basically make a buffer
 - add admins
 - web interface
   - leaderboards??
